@@ -4,7 +4,7 @@
 The objective of this project is to determine what baseball statistics help lead MLB teams to more wins in a season.
 
 Topic questions:
-- How does a team's LOB percentage correlate with the number of wins they achieve in a season?
+- How does a team's left on base (LOB) percentage correlate with the number of wins they achieve in a season?
 - Does a team's earned run average (ERA) or its Defensive Efficiency Rating (DER) have a stronger correlation with the number of losses in a season?
 - Does a higher team slugging percentage (SLG) or a higher team batting average (BA) have a stronger correlation with the number of wins in a season?
 
