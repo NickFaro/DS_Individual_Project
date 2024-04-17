@@ -27,6 +27,9 @@ Used specifically to get the LOB metrics for the first research question.
 Research Question 1: How does a team's left on-base (LOB) statistic correlate with the number of wins they achieve in a season?
   Based on the findings of comparing each MLB team's LOB statistics and their wins in a season, it can be determined that the LOB statistic does not matter much when it comes to winning games. In the graph it can be seen that the Baltimore Orioles, the team with the second most amount of wins in the 2023 season, and the Oakland Athletics, the worst team in the league for that year, have the same LOB average at 6.44, so it seems like other statistics are much more meaningful when it comes to winning games.
 
+Research Question 2: Does a team's earned run average (ERA) or its Defensive Efficiency Rating (DefEff) have a stronger correlation with the number of losses in a season?
+  After comparing both ERA vs. wins and DefEff vs. wins for the 2023 season, it can be seen that ERA is much a much more important statistic for teams to win games. Teams that won the most amount of games in 2023 generally have the lowest ERAs (having a lower ERA is better than a higher one) whereas the DeffEff graph is much more scattered, with the team with the most amount of wins in 2023 having a below-average DeffEff.
+
 ## Discussion
 What might the answer imply and why does it matter? How does it fit in with what other researchers have found? What are the perspectives for future research?
 
