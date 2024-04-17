@@ -22,6 +22,7 @@ Used specifically to get the LOB metrics for the first research question.
 - NumPy and Pandas for data analysis and inference
 - GitHub for development and hosting/version control
 - Colab as IDE
+- Data cleaning: Lots of data cleaning was needed for this project. For a lot of the CSV files I had to change the label representing each MLB team to "Team" so that they could be merged with other tables properly. Also, baseball-reference.com provided a lot more information than I needed, so I needed to modify the CSV files to only contain the data that I needed (Wins, ERA, BA, SLG, DefEff).
 
 ## Results
 Research Question 1: How does a team's left on-base (LOB) statistic correlate with the number of wins they achieve in a season?
